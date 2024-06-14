@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hi, it's me Vyshnav!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
